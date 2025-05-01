@@ -57,6 +57,7 @@ AND last_name='Brown';
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/c138c53c-eddb-4ed1-8bf9-87dd949919d6)
 
 
@@ -71,6 +72,7 @@ WHERE OPENING_AMT BETWEEN 4000 AND 6000;
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/a97d92f6-6b0a-40a7-9e03-02d0e507df5c)
 
 
@@ -86,6 +88,7 @@ WHERE Department='HR';
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/bd47906f-8db3-4f5c-8e60-defe536b1c1a)
 
 **Question 4**
@@ -99,6 +102,7 @@ FROM emp;
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/48a283b5-61e5-4846-b03e-9eba01baf494)
 
 
@@ -116,6 +120,7 @@ WHERE product_id IN (SELECT product_id
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/043200f3-b64a-4929-8820-b17beff5c02f)
 
 
@@ -131,6 +136,7 @@ WHERE hiredate >= DATE('2024-09-01','-6 months');
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/91133ef7-b6a3-4579-9e96-4394b3ed3f5e)
 
 
@@ -146,6 +152,7 @@ WHERE commission BETWEEN 0.12 AND 0.14;
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/2806ae32-e7e5-4ef6-b189-38aaac0939fa)
 
 
@@ -160,6 +167,7 @@ WHERE cust_country='India' AND cust_city!='Chennai';
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/54786eb0-8242-4671-9fdc-283b3a674fa8)
 
 
@@ -174,6 +182,7 @@ WHERE WORKING_AREA='New York';
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/723c3a6c-d418-4a72-ba27-683bb20bb4dc)
 
 
@@ -189,6 +198,7 @@ WHERE supplier_id=5;
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/4c7d2cb5-8f25-4b71-937b-3622dd93660c)
 
 
