@@ -1,4 +1,9 @@
 # Experiment 3: DML Commands
+```
+Developed by;
+Name : Rajalakshmi R
+Reg No : 212223110037
+```
 
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
@@ -204,3 +209,6 @@ WHERE supplier_id=5;
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
+
+## Module Completion
+![image](https://github.com/user-attachments/assets/019e1995-68ba-4afd-90e9-a8bbff812abb)
