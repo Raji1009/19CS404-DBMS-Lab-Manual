@@ -1,4 +1,9 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
+```
+Developed by;
+Name : Rajalakshmi R
+Reg No: 212223110037
+```
 
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
@@ -228,3 +233,6 @@ HAVING
 
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
+
+## Module Completion
+![image](https://github.com/user-attachments/assets/087ce1c1-c916-48ad-ab4f-9820f73de427)
