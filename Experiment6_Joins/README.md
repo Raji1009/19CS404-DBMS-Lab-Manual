@@ -246,12 +246,12 @@ ORDER BY
 ```
 
 **Output:**
-![image](https://github.com/user-attachments/assets/e0be588a-51af-44dd-abca-76d02855e5bd)
 
+![image](https://github.com/user-attachments/assets/ad83b85e-d5ed-45f1-9962-2a58bba2d230)
 
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
 
 ## Module Completion
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e0be588a-51af-44dd-abca-76d02855e5bd)
